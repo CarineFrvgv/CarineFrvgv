@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi Friends, I'm Ca 🦈I've been working on my skills since my fist contact with the magic of programming in 2020 👨‍💻🚀</div>  
+### <div align="center">Hi Friends, I'm Ca 🦈I've been working on my skills since my fist contact with the magic of programming back in 2020 👨‍💻🚀</div>  
 
 - 🔭 I’m currently working on problem solving
   
