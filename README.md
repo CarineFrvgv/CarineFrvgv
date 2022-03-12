@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on problem solving
   
 
-- 🌱 I’m currently learning C++  
+- 🌱 I’m currently learning TypeScript
   
 
 -  😄 Pronouns: They/Them
